@@ -1,6 +1,6 @@
-# CounterApp 🎮
+# CounterGame 🎮
 
-A simple counter app built with Unity.
+A simple counter game built with Unity.
 
 ## Features
 - Enter your name
