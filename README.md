@@ -8,7 +8,7 @@ A beginner-friendly Unity counter app game that lets players increment and decre
 
 | Welcome Screen | Counter Scene | Congratulations |
 |----------------|---------------|-----------------|
-| ![Welcome](assets/screenshots/welcome.png) | ![Counter](assets/screenshots/counter.png) | ![Congrats](assets/screenshots/congrats.png) |
+| ![Welcome](Assets/screenshots/welcome.png) | ![Counter](Assets/screenshots/counter.png) | ![Congrats](Assets/screenshots/congrats.png) |
 
 ---
 
