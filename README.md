@@ -1,16 +1,66 @@
-# CounterGame 🎮
+# 🕹️ SimpleCounterGame
 
-A simple counter game built with Unity.
+A beginner-friendly Unity counter app game that lets players increment and decrement numbers. Includes a user-friendly UI, username tracking, and a congratulatory screen when the counter hits 10!
 
-## Features
-- Enter your name
-- Click to increase/decrease your score
-- Reach 10 and get a congratulatory screen!
+---
 
-## How to Use
-1. Clone the repo or download the latest `.zip` from Releases
-2. Open in Unity 2022 or later
-3. Click `WelcomeScene` and press Play
+## 📸 Screenshots
 
-## Build
-Windows `.exe` included in Releases tab.
+| Welcome Screen | Counter Scene | Congratulations |
+|----------------|---------------|-----------------|
+| ![Welcome](assets/screenshots/welcome.png) | ![Counter](assets/screenshots/counter.png) | ![Congrats](assets/screenshots/congrats.png) |
+
+---
+
+## 🚀 Features
+
+- 🔢 Increment / Decrement Counter
+- 🧑 Username input saved using `PlayerPrefs`
+- 🎉 Custom congratulation screen when score = 10
+- 🖼️ Stylish buttons and background
+- 💾 Score persists even after app closes
+
+---
+
+## 🛠️ Technologies Used
+
+- Unity 6.1
+- C#
+- Git & Git LFS (for build release)
+- GitHub Releases
+
+---
+
+## 📦 Download
+
+Download the latest `.zip` from the [Releases section](https://github.com/AbiDHussen/SimpleCounterGame/releases).
+
+---
+
+## 🎮 How to Play
+
+1. Open the app
+2. Enter your name
+3. Press `Continue`
+4. Click the **+** button to increase the score
+5. Reach 10 to win 🎉
+
+---
+
+## 📂 Folder Structure
+
+```
+SimpleCounterGame/
+├── Assets/
+├── Packages/
+├── ProjectSettings/
+├── .gitignore
+├── .gitattributes
+├── README.md
+├── CounterAppBuild.zip (via Git LFS)
+```
+
+
+## 🙌 Credits
+
+Made with ❤️ by [AbiDHussen](https://github.com/AbiDHussen)
