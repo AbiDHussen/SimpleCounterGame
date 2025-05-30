@@ -1,0 +1,23 @@
+# Ignore Visual Studio and Rider files
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.tmp
+
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/
